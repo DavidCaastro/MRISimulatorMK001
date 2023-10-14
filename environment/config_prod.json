@@ -1,0 +1,11 @@
+{
+    "base_url": "http://example.com",
+    "debug_mode": false,
+    "database": {
+        "host": "prod-db.example.com",
+        "port": 5432,
+        "name": "prod_db",
+        "user": "prod_user",
+        "password": "prod_password"
+    }
+}

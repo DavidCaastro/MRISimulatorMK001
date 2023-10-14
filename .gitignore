@@ -1,0 +1,37 @@
+# Entornos virtuales (por ejemplo, virtualenv, venv)
+venv/
+env/
+
+# Archivos de configuración
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs y archivos de registro
+*.log
+logs/
+log.txt
+
+# Archivos de caché
+*.cache
+.cache/
+
+# Directorio de construcción
+build/
+
+# Directorio de distribución
+dist/
+
+# Archivos de configuración de IDE (por ejemplo, .vscode, .idea)
+.vscode/
+.idea/
+
+# Directorio de dependencias
+lib/
+libs/
+lib64/
+
+# Ignorar archivos .env
+dev.env
+pre.env
+pro.env

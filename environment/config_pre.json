@@ -1,0 +1,11 @@
+{
+    "base_url": "http://preprod.example.com",
+    "debug_mode": false,
+    "database": {
+        "host": "preprod-db.example.com",
+        "port": 5432,
+        "name": "preprod_db",
+        "user": "preprod_user",
+        "password": "preprod_password"
+    }
+}
