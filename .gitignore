@@ -31,7 +31,3 @@ lib/
 libs/
 lib64/
 
-# Ignorar archivos .env
-dev.env
-pre.env
-pro.env
